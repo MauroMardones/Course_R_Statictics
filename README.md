@@ -5,5 +5,5 @@ Description and educational material for introductory course on R and descriptiv
 This course has 3 section
 
 - **useR**. Intro to R and basic features,
-- Exploratory Data Analysis, Data handling, Danta manipulation
+- Exploratory Data Analysis, Data handling, Data manipulation
 - Descriptive Statistics. Parametric and No Parametric, Linear Regression, among others
