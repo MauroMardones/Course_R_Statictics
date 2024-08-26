@@ -1,0 +1,7 @@
+# **useR**. Intro to R and basic features
+
+
+Source in this [link](https://estadistica-dma.ulpgc.es/cursoR4ULPGC/index.html)
+
+
+[An introduction to R](https://intro2r.com/index.html)

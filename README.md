@@ -8,3 +8,4 @@ This course has these sections;
 - 2. Exploratory Data Analysis, Data handling, Data manipulation
 - 3. Descriptive Statistics. Parametric and No Parametric, Linear Regression, among others
 - 4. Visualization. Graphics and Maps using modern packages
+... and more
