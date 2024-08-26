@@ -1,6 +1,6 @@
 --- 
 title: "R Basic Course IEO"
-author: "Mardones, M. & Zúñinga, MJ."
+author: "Mardones, M. & Zúñiga, MJ."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,9 +15,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
-
-# Course_R_Statistics
+# About Course_R_Statistics
 
 Description and educational material for introductory course on R and descriptive statistics with applications in fisheries
 
