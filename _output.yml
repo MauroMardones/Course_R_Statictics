@@ -6,12 +6,14 @@ bookdown::gitbook:
         <li><a href="./">R Basic Course IEO</a></li>
       after: |
         <li><a href="https://mauromardones.github.io/Course_R_Statictics/" target="blank">Published with bookdown</a></li>
-    edit: https://mauromardones.github.io/Course_R_Statictics/%s
+    edit: https://github.com/mauromardones/Course_R_Statictics/edit/main/%s
     download: ["pdf", "epub"]
+
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+
 bookdown::epub_book: default
