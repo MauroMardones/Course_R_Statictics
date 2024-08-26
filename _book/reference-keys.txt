@@ -15,7 +15,6 @@ footnotes
 citations
 blocks
 equations
-theorems-and-proofs
 callout-blocks
 sharing-your-book
 publishing
