@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "R Basic Course IEO"
+author: "Mardones, M. & Zúñinga, MJ."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -16,6 +16,18 @@ github-repo: rstudio/bookdown-demo
 ---
 
 # About
+
+# Course_R_Statistics
+
+Description and educational material for introductory course on R and descriptive statistics with applications in fisheries
+
+This course has these sections;
+
+- 1. **useR**. Intro to R and basic features,
+- 2. Exploratory Data Analysis, Data handling, Data manipulation
+- 3. Descriptive Statistics. Parametric and No Parametric, Linear Regression, among others
+- 4. Visualization. Graphics and Maps using modern packages
+... and more
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 

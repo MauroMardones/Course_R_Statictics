@@ -2,6 +2,7 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 about
+course_r_statistics
 usage
 render-book
 preview-book
