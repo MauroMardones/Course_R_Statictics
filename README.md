@@ -2,8 +2,9 @@
 
 Description and educational material for introductory course on R and descriptive statistics with applications in fisheries
 
-This course has 3 section
+This course has these sections;
 
-- **useR**. Intro to R and basic features,
-- Exploratory Data Analysis, Data handling, Data manipulation
-- Descriptive Statistics. Parametric and No Parametric, Linear Regression, among others
+- 1. **useR**. Intro to R and basic features,
+- 2. Exploratory Data Analysis, Data handling, Data manipulation
+- 3. Descriptive Statistics. Parametric and No Parametric, Linear Regression, among others
+- 4. Visualization. Graphics and Maps using modern packages

@@ -1,0 +1,52 @@
+---
+title: "2. Exploratory Data Analysis, Data handling, Data manipulation"
+subtitle: "R Basic Course IEO"
+author: "Mardones, M"
+date:  "`r format(Sys.time(), '%d %B, %Y')`"
+bibliography: Course_R_IEO.bib
+csl: apa.csl
+link-citations: yes
+linkcolor: blue
+output:
+  html_document:
+    keep_md: true
+    toc: true
+    toc_deep: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    theme: cosmo
+    fontsize: 0.9em
+    linestretch: 1.7
+    html-math-method: katex
+    self-contained: true
+    code-tools: true
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup1, echo=FALSE}
+#rm(list = ls())
+#set.seed(999)
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      warning = FALSE,
+                      fig.height = 3,
+                      fig.width = 5,
+                      fig.align = 'center',
+                      fig.pos = "H",
+                      dev = 'jpeg',
+                      dpi = 300,
+                      tidy.opts=list(width.cutoff=50), 
+                      tidy=TRUE)
+```
+
+
+
+Sources
+
+[Data Explorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
+
+[EMSE 4572](https://eda.seas.gwu.edu/2022-Fall/class/1-getting-started.html)
+[CleanData](https://www.jumpingrivers.com/blog/best-practices-data-cleaning-r/)
