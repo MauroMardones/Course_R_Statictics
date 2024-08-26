@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">R Basic Course IEO</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://mauromardones.github.io/Course_R_Statictics/" target="blank">Published with bookdown</a></li>
     edit: https://mauromardones.github.io/Course_R_Statictics/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
