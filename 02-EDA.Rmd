@@ -35,6 +35,8 @@ knitr::kable(
 
 Sources
 
+[Basic R](https://psyteachr.github.io/introdataviz/introduction.html)
+
 [Data Explorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
 
 [EMSE 4572](https://eda.seas.gwu.edu/2022-Fall/class/1-getting-started.html)
